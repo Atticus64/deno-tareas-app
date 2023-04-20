@@ -20,6 +20,14 @@ npm install
 node app.js 
 ```
 
+# Deno
+
+* Recuerda tener la ultima version de Deno
+
+```
+deno run app.js
+```
+
 * También puedes correr el script go para correr la app :exclamation:
 
 ```
